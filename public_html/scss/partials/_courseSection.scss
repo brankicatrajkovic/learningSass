@@ -8,9 +8,9 @@ $tbody-even-bg: $white;
 $tbody-hover-bg: darken($light-grey, 15%);
 
 .course-section{
-    padding: 50px 0;
+    @include styleSection(30px, 30px, transparent);
 
-    table{
+    table{  
         border:$table-border;
         border-collapse: collapse;
         width: 100%;

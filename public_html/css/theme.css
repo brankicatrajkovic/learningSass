@@ -11,7 +11,7 @@
 }
 
 .btn-default {
-  background-color: rgba(68, 68, 68, 0.2);
+  background-color: rgba(68, 68, 68, 0.8);
   color: #ffffff;
 }
 
@@ -39,7 +39,7 @@
 
 .btn-warning {
   background-color: #f77a05;
-  color: #ffffff;
+  color: #000000;
 }
 
 .btn-warning:hover {

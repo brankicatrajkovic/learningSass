@@ -43,5 +43,6 @@ font-weight: $default-weight;
 h1, h2, h3, h4, h5, h6{
     font-family: $headings-font;
     font-weight: $default-weight;
-    color: $heading-color
+    color: $heading-color;
+    margin-top: 0;
 }
